@@ -19,11 +19,11 @@ layout: default
   <div class="container">
     <div class="columns">
       <div class="column content">
-        <h3>High quality</h3>
+        <h3>High Quality</h3>
         <p>Utilising the latest technologies unafile can provide you with the highest standard of conversion.</p>
       </div>
       <div class="column content">
-        <h3>Fair pricing</h3>
+        <h3>Fair Pricing</h3>
         <p>Converting files shouldn't cost a fortune, which is why we value ourselves in proving fairest pricing possible for our service.</p>
       </div>
       <div class="column content">
@@ -39,7 +39,7 @@ layout: default
     <h4 class="title is-4">Why should I use unafile?</h4>
     <div class="columns">
       <div class="column content">
-        <h3>Reduce bloat</h3>
+        <h3>Reduce Bloat</h3>
         <p>Let us handle the dirty work so you can build nimble software that isn't weighed down with the infrastructure of converting files.</p>
       </div>
       <div class="column content">
