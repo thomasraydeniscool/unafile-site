@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: The story of unafile
+permalink: /about/
 ---
 
 ## Background
