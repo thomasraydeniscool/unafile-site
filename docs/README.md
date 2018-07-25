@@ -12,6 +12,6 @@ Currently unafile suports the following convertions:
 
 ## Licence
 
-This project is licensed under the [GPL-3.0 licence](https://github.com/unafile/unafile-api/blob/master/LICENSE).
+This project is licensed under the [GPL-3.0 licence](//github.com/unafile/unafile-api/blob/master/LICENSE).
 
 Copyright (c) 2018 unafile
