@@ -1,5 +1,5 @@
 <!-- Sidebar -->
 
-- [Home](/docs)
-- [Guide](/docs/guide/)
-- [API Reference](/docs/reference/)
+- [Home](/)
+- [Guide](/guide/)
+- [API Reference](/reference/)
