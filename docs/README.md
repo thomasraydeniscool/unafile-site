@@ -1,7 +1,5 @@
 # Introduction
 
-> A dependable file converting API.
-
 Welcome to the documentation of unafile!
 
 ## Supported File Formats
